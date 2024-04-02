@@ -3,7 +3,7 @@
   "name": "build",
   "version": "1.0.0",
   "scripts": {
-    "start": "node build.js"
+    "start": "node index.js"
   }
 },
   "keywords": [],
