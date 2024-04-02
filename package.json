@@ -1,11 +1,11 @@
 {
-  "name": "nodejs",
+  
+  "name": "build",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    "start": "node build.js"
+  }
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -17,4 +17,3 @@
     "node-telegram-bot-api": "^0.61.0",
     "request": "^2.88.2"
   }
-}
